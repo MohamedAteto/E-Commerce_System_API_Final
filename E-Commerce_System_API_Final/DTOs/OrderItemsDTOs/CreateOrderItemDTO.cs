@@ -13,5 +13,15 @@ namespace E_Commerce_System_API_Final.DTOs.OrderItemsDTOs
         public int ProductID { get; set; }
 
         public decimal TotalItemsAmount => UnitPrice * Quantity;
+
+
+
+
+
+
+
+
+
+        // new update in this file 
     }
 }
